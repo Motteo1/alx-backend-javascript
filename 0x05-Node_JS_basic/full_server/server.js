@@ -1,4 +1,4 @@
-const express = require('express');
+const express from 'express';
 import mapRoutes from './routes';
 
 const app = express();
